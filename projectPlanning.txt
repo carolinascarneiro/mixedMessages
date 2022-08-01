@@ -1,0 +1,11 @@
+Visualize your end result.
+A command-line application that prints motivational messages everytime the user runs it.
+
+What is it built with?
+JavaScript
+
+What can it do?
+It prints motivational messages everytime the user runs it.
+
+Connect Repo with Github: 5 minutes.
+Time for the project: 30 minutes.
